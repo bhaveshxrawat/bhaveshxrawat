@@ -8,7 +8,7 @@
 - 🛠 I'm a Frontend Engineer who loves crafting responsive, accessible, and performant interfaces.
 - 🚀 Currently building **ELI5Me**, **Gradientext**, **Freemium Stuff**, and more.
 - 🎨 I pay special attention to UX, motion, and the little polish that makes products delightful.
-- 🔧 I build with **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, and **Zustand**.
+- 🔧 I build with **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, and **Zustand**, but not exclusive to these. I don't shy away from new tech.
 - 📍 Based in India.
 
 ---
