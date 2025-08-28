@@ -6,8 +6,8 @@
 ### 👨‍💻 About Me
 
 - 🛠 I'm a Frontend Engineer who loves crafting responsive, accessible, and performant interfaces.
-- 🚀 Currently building **ELI5Me**, **Gradientext**, **Freemium Stuff**, and more.
-- 🎨 I pay special attention to UX, motion, and the little polish that makes products delightful.
+- 🚀 Currently building **chaotic kirana**, **react-youtube-liteframe**, and more.
+- 🎨 I pay special attention to UX, motion, and the little polish that makes products delightful. I am wired that way.
 - 🔧 I build with **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, and **Zustand**, but not limited to these. I don't shy away from new tech.
 - 📍 Based in India.
 
@@ -17,11 +17,9 @@
 
 ```ts
 const tech = {
-  languages: ["JavaScript", "TypeScript"],
-  frameworks: ["React", "Next.js", "Node.js", "Express"],
-  styling: ["TailwindCSS", "SCSS", "Framer Motion"],
-  state: ["Zustand", "Redux"],
-  tools: ["Figma", "Git", "Astro", "Prisma", "Supabase", "AWS S3"]
+  languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
+  technologies: ["React", "Next.js", "Node.js", "Express", "React Router", "Tanstack Query (prev. React Query)"],
+  styling: ["TailwindCSS", "CSS Modules", "Styled Components"],
 };
 ```
 
