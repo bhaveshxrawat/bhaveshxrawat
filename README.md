@@ -13,16 +13,6 @@
 
 ---
 
-### 🧰 Tech Stack
-
-```ts
-const tech = {
-  languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
-  technologies: ["React", "Next.js", "Node.js", "Express", "React Router", "Tanstack Query (prev. React Query)"],
-  styling: ["TailwindCSS", "CSS Modules", "Styled Components"],
-};
-```
-
 ### 📫 Let's Connect
 
 - 🌐 [bhaveshrawat.dev](https://bhaveshrawat.dev)
